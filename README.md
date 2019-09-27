@@ -31,6 +31,7 @@ Moreover, we also analyse the time of parking and specific part of the street:
 
 ### How to run?
 >~~~~
+>git clone https://github.com/Borzyszkowski/USFQ-Traffic-in-Ecuador.git
 >pip install simpy
 >python traffic_simulation.py
 >~~~~
