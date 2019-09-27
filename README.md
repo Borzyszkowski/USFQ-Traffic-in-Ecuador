@@ -4,7 +4,7 @@ Research in data analysis, machine learning and mathematical modeling, leading t
 
 ## Overview
 
-The street has a limited number of parking places. Some of them are common and some part of it is reserved for trucks which deliver goods to the stores. Cars randomly arrive at the street and park on the spots, however after some time all the places are occupied. New, upcoming cars are forced to stop at the street, what leads to the traffic jams. In this project we simulate the traffic and analyse it basing on the real data collected on the streets in Quito, Ecuador. We believe that this project will allow to simplify logistic and transport processes and in result will lead to solving the problem of traffic jams.
+The street has a limited number of parking places. Some of them are common and some part of it is reserved for trucks which deliver goods to the stores. Cars randomly arrive at the street and park on the spots, however after some time all the places are occupied. New, upcoming cars are forced to stop at the street, what leads to the traffic jams. In this project we create a Discrete Event Simulation (DES) to mimic and analyse the traffic, basing on real data collected on the streets of Quito, Ecuador. We believe that this project will allow to simplify logistic and transport processes and in result will lead to solving the problem of traffic jams.
 
 Types of vehicles:
 1. Big Truck
