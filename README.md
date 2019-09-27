@@ -18,10 +18,10 @@ Reason of parking:
 2. Transport of people
 
 Level of disruption:
-0 - parking in the selected zone
-1 - small disruption (<5 minutes)
-2 - significant disruption (>5 minutes)
-3 - big disruption (>15 minutes)
+- 0 - parking in the selected zone
+- 1 - small disruption (<5 minutes)
+- 2 - significant disruption (>5 minutes)
+- 3 - big disruption (>15 minutes)
 
 Moreover, we also analyse the time of parking and specific part of the street:
 - SUR-NORTE (station C)
