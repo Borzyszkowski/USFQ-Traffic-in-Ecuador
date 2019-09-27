@@ -166,7 +166,7 @@ def car(name, env, street, parking, data):
         print('Real time of arrival: ', data.information['hora_a_la_que_comenz_el_parqueo'])
     else:
         print('End of parking: ', data.information['hora_a_la_que_finaliz_el_parqueo'])
-    print('%s arriving at street at simuation artificial time %.1f' % (name, env.now))
+    print('#  %s arriving at street at simuation artificial time %.1f' % (name, env.now))
     print('Location of the car: ', data.information['sentido_de_la_calle_donde_estacion'])
     print('Type of the car: ', data.information['tipo_de_vehculo'])
     print('Reason for parking: ', data.information['propsito_del_parqueo'])
@@ -185,7 +185,7 @@ def car(name, env, street, parking, data):
         # The "actual" delivery process takes some time
         yield env.timeout(delivery_required / DELIVERY_SPEED)
 
-        print('%s finished delivery in simuation artificial time %.1f seconds.' % (name, env.now - start))
+        print('#  %s finished delivery in simuation artificial time %.1f seconds.' % (name, env.now - start))
 
 
 def traffic_control(env, parking):
@@ -210,7 +210,7 @@ if __name__ == "__main__":
     print(f'Reading the data from a specified path ({data_file_path}).')
     data = pursue_data(data_file_path)
     data = sort_data(data)
-    print('Traffic in Quito simulation: ')
+    print('""""  Traffic in Quito simulation  """')
     random.seed(RANDOM_SEED)
 
     # Create environment and start processes
