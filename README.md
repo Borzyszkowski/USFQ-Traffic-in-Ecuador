@@ -40,7 +40,7 @@ Moreover, we also analyse the time of parking and specific part of the street:
 ### Usefull links
 
 * [Fulcrum App](https://www.fulcrumapp.com/) - Fulcrum is a mobile data collection platform that allows to easily build mobile forms & collect data.
-* [USFQ DIE](https://www.usfq.edu.ec/programas_academicos/colegios/politecnico/Paginas/default.aspx) - Universidad San Francisco de Quito Department of Industrial Engineering
-* [MIT CTL](https://ctl.mit.edu/) - Massachusetts Institute of Technology
+* [USFQ DIE](https://www.usfq.edu.ec/programas_academicos/colegios/politecnico/Paginas/default.aspx) - Universidad San Francisco de Quito: Department of Industrial Engineering
+* [MIT CTL](https://ctl.mit.edu/) - Massachusetts Institute of Technology:
  Center for Transportation and Logistics
 
