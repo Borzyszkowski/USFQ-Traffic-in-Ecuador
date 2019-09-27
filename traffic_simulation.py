@@ -40,7 +40,7 @@ import random
 import simpy
 import csv
 
-data_file_path = 'paradas_y_parqueos.csv'
+data_file_path = './data/paradas_y_parqueos.csv'
 RANDOM_SEED = 42
 PARKING_SPOTS_NO = 50  # Number of parking spots in the street
 THRESHOLD = 10  # Threshold to inform when the parking is becoming full (in %)
