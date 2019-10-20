@@ -1,3 +1,7 @@
+
+<p align="center"><img src="http://i.imgur.com/wOGZico.png" width="300" align="middle"></p>
+
+
 # USFQ-Traffic-in-Ecuador
 Research in data analysis, machine learning and mathematical modeling, leading to solve complex logistics problems in various industries across Ecuador, Mexico, and other countries of Latin America. Project lead by University of San Fransicso in Quito, in Cooperation with MIT Center for Transportation and Logistics.
 
